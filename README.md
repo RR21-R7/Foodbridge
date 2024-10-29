@@ -94,8 +94,7 @@ lib/
 │   ├── RegisterPage.dart
 │   └── VolunteerScreen.dart
 └── widgets/
-
-
+```
 
 ## Contributing
 
