@@ -78,21 +78,21 @@ flutter run
 
 ## Folder Structure
 lib/
-├── main.dart          
-├── pages/             
-│   ├── AccountPage.dart
-│   ├── DonateScreen.dart
-│   ├── EditDetailsPage.dart
-│   ├── FoodBank.dart
-│   ├── FoodBankDetailScreen.dart
-│   ├── FoodBankDetailScreen.dart
-│   ├── ForgotPasswordPage.dart
-│   ├── HomeScreen.dart
-│   ├── LoginPage.dart
-│   ├── main.dart
-│   ├── RegisterPage.dart
-│   └──VolunteerScreen.dart
-└── widgets/     
+- ├── main.dart          
+-- ├── pages/             
+--- │   ├── AccountPage.dart
+--- │   ├── DonateScreen.dart
+--- │   ├── EditDetailsPage.dart
+--- │   ├── FoodBank.dart
+--- │   ├── FoodBankDetailScreen.dart
+--- │   ├── FoodBankDetailScreen.dart
+--- │   ├── ForgotPasswordPage.dart
+--- │   ├── HomeScreen.dart
+--- │   ├── LoginPage.dart
+--- │   ├── main.dart
+--- │   ├── RegisterPage.dart
+--- │   └──VolunteerScreen.dart
+- └── widgets/     
 
 ## Contributing
 
