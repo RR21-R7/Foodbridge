@@ -96,11 +96,11 @@ lib/
 
 ## Contributing
 
-Fork the repository.
-Create a new branch for your feature (git checkout -b feature-donate).
-Commit your changes (git commit -am 'Add Donate feature').
-Push to the branch (git push origin feature-donate).
-Open a pull request.
+- Fork the repository.
+- Create a new branch for your feature (git checkout -b feature-donate).
+- Commit your changes (git commit -am 'Add Donate feature').
+- Push to the branch (git push origin feature-donate).
+- Open a pull request.
 
 ## License
 This project is licensed under the MIT License.
