@@ -30,7 +30,7 @@ final List<FoodBank> foodBanks = [
   ),
   FoodBank(
       name: 'Muhibbah Food Bank',
-      address: 'Kawasan Perusahaan Senawang, 70450, Senawang',
+      address: 'Kawasan Perusahaan, 70450, Senawang',
       availableFoods: ['Fruits', 'Vegetables', 'Juice', 'Snacks']
   ),
   FoodBank(
