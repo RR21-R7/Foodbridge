@@ -92,7 +92,7 @@ lib/
 │   ├── main.dart
 │   ├── RegisterPage.dart
 │   └──VolunteerScreen.dart
-└── widgets/          
+└── widgets/     
 
 ## Contributing
 
