@@ -54,9 +54,9 @@ Edit Details Page
 - Validates password confirmation and provides success feedback.
 
 ## Technology Stack
-Framework: Flutter (Dart)
-Platform: Android, iOS
-UI Components: Material Design for UI elements such as Snackbars, Dialogs, Cards, and Elevated Buttons.
+- Framework: Flutter (Dart)
+- Platform: Android, iOS
+- UI Components: Material Design for UI elements such as Snackbars, Dialogs, Cards, and Elevated Buttons.
 
 ## Setup and Installation
 Prerequisites:
